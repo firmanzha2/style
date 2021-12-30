@@ -1,0 +1,163 @@
+.col-md-4{
+	min-height:0px;
+}
+/*
+a{
+	color: #0667D1;
+}*/
+.h3, h3 {
+    font-size: 18px;
+}
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+
+
+.col-anime-data{
+	float:left;
+	margin-top: 5px;
+	width: 100%;
+}
+.col-anime-con{
+	padding: 0px 0px;
+	margin-bottom: 10px;
+	float: left;
+}
+.col-anime{
+    border: 2px solid blueviolet;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    display: block;
+    float: center;
+    /*height: 281.15px;*/
+    height: 370px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+	background: white;
+}
+.col-anime-title{
+	border: 0.5px solid dodgerblue;
+	float: left;
+	padding: 8px 10px;
+	text-align: center;
+	width: 100%;
+	font-weight: bold;
+	display: block;
+    height: 35px;
+    overflow: hidden;
+	position: relative;
+}
+.col-anime-studio{
+    background-color: white;
+    border: 0.5px solid dodgerblue;
+    display: block;
+    float: left;
+    font-size: 13px;
+    height: 23px;
+    overflow: hidden;
+    padding: 3px 6px;
+    position: relative;
+    text-align: center;
+    width: 50%;
+}
+.col-anime-eps{
+    background-color: white;
+    border: 0.5px solid dodgerblue;
+    display: block;
+    float: left;
+    font-size: 13px;
+    height: 23px;
+    overflow: hidden;
+    padding: 3px 6px;
+    position: relative;
+    text-align: center;
+    width: 25%;
+}
+.col-anime-rating{
+    background-color: white;
+    border: 0.5px solid dodgerblue;
+    display: block;
+    float: left;
+    font-size: 13px;
+    height: 23px;
+    overflow: hidden;
+    padding: 3px 6px;
+    position: relative;
+    text-align: center;
+    width: 25%;
+}
+.col-anime-meta{
+	background-color: #f6f6f6;
+	float: left;
+	padding: 3px 6px;
+	text-align: center;
+	width: 33.33%;
+	font-size: 13px;
+	border-bottom: 1px solid #dddddd;
+}
+.col-anime-genre{
+    background-color: white;
+    border: 1px solid dodgerblue;
+    display: block;
+    float: left;
+    font-size: 13px;
+    height: 23px;
+    overflow: hidden;
+    padding: 3px 6px;
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
+.col-anime-cover{
+    border: 1px solid dodgerblue;
+    float: center;
+    padding: 0px;
+    width:336px;
+	max-width: 100%;
+	height: 244px;
+}
+
+
+  
+  
+.col-anime-cover img{
+	width: 100%;
+	height: 67%;
+}
+.col-synopsis{
+    float: right;
+    /*height: 156px;*/
+    height: 100px;
+    overflow-y: hidden;
+
+    padding: 0px 0px;
+   width: 100%;
+	font-size: 12px;
+		position: relative;
+}
+.col-synopsis:hover, .col-synopsis:focus{
+	overflow-y: auto;
+}
+.col-anime-date{
+  text-align: center;
+    background-color: #f6f6f6;
+    border-top: 1px solid dodgerblue;
+    float: left;
+    font-size: 13px;
+    padding: 4px 0 2px 6px;
+	width: 50%;
+	border-right: 1px solid dodgerblue;
+	height: 25px;
+}
+.col-anime-trailer{
+  text-align: center;
+	background-color: white;
+    border-top: 1px solid dodgerblue;
+    float: left;
+    font-size: 13px;
+    padding: 4px 0 2px 6px;
+	width: 50%;
+	height: 25px;
+}
